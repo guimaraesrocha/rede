@@ -124,5 +124,6 @@
 	    	<ul>
 	        	<li> Lançamento oficial do sistema na CPRJ.</li>
 	    	</ul>
+    </ul>
 </body>
 </html>
