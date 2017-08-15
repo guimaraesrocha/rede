@@ -13,7 +13,7 @@
             </ul>
         <h3><p>Correção Específica</p></h3>
             <ul>
-                <li> Devido a lentidão no sistema durante a geração de gráficos dinamicamente, foi retirado esta opção em todos os formulários.</li>
+                <li> Devido a lentidão no sistema, a opção de gerar gráficos dinamicamente, foi retirada em todos os formulários.</li>
                 <li> Retirada a função de verificar o tempo de 48h automaticamente no formulário, durante a inclusão de Navios Fundeados.</li>
             </ul>
         <h3><p>Melhoria de Performance</p></h3>
