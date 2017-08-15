@@ -20,6 +20,8 @@
             <ul>
                 <li> Finalizado as correções específicas para se adequar a DCTIMBOTEC-31-002-2017 (Requisitos de SID para Homologacao de Sistemas Digitais).</li>
             </ul>
+    </ul>
+    <ul>
     <li>Versão 1.7 - 10JUL2017</li>
         <h3><p>Bug</p></h3>
             <ul>
@@ -37,6 +39,8 @@
             <ul>
                 <li> Corrigido problema de</li>
             </ul>
+    </ul>
+    <ul>
     <li>Versão 1.6 - 30JUN2017</li>
 	    <h3><p>Novas Implementações</p></h3>
 	            <ul>
@@ -53,6 +57,8 @@
             <ul>
             	<li> Alterada as mensagens de ERRO de todos os formulários.</li>
             </ul>>
+    </ul>
+    <ul>
     <li>Versão 1.5 - 10JUN2017</li>
     	<h3><p>Correção Específica</p></h3>
             <ul>
@@ -63,11 +69,15 @@
             	<li> Alterada a senha padrão do Administrador.</li>
             	<li> Criada novas "VIEWS" na Base de Dados. Necessário reinstalar o sistema.</li>
             </ul>>
+    </ul>
+    <ul>
     <li>Versão 1.4 - 08MAI2017</li>
-        <h3><p></p></h3>
+        <h3><p>Correção Específica</p></h3>
             <ul>
-                <li> </li>
+                <li> Alterado o formulário Esporte e/ou Recreio, para adequar-se a NORMAM-03.</li>
             </ul>
+    </ul>
+    <ul>
     <li>Versão 1.3 - 07ABR2017</li>
         <h3><p>Novas Implementações</p></h3>
             <ul>
@@ -79,6 +89,8 @@
             <ul>
                 <li>Melhoria na visualização do campo "Anuência" no formulário de Navios na Pedra.</li>
             </ul>
+    </ul>
+    <ul>
     <li>Versão 1.2 - 30MAR2017</li>
         <h3><p>Bug</p></h3>
             <ul>
@@ -93,6 +105,8 @@
             <ul>
                 <li> No cadastro da senha no formulário, foi permitido adicionar todos os caracteres.</li>
             </ul>
+    </ul>
+    <ul>
     <li>Versão 1.1 - 05MAR2017</li>
     	<h3><p>Bug</p></h3>
             <ul>
@@ -120,6 +134,8 @@
                 <li> Adicionado cores no campo "Anuência" do formulário de Navios na Pedra.</li>
                 <li> Alterado o "Intervalo de Refresh" para 60seg no formulário de Navios na Pedra.</li>
             </ul>
+    </ul>
+    <ul>
     <li>Versão 1.0 - 19DEZ2016</li>
 	    	<ul>
 	        	<li> Lançamento oficial do sistema na CPRJ.</li>
