@@ -56,7 +56,7 @@
         <h3><p>Melhoria de Performance</p></h3>
             <ul>
             	<li> Alterada as mensagens de ERRO de todos os formulários.</li>
-            </ul>>
+            </ul>
     </ul>
     <ul>
     <li>Versão 1.5 - 10JUN2017</li>
@@ -68,13 +68,14 @@
             <ul>
             	<li> Alterada a senha padrão do Administrador.</li>
             	<li> Criada novas "VIEWS" na Base de Dados. Necessário reinstalar o sistema.</li>
-            </ul>>
+            </ul>
     </ul>
     <ul>
     <li>Versão 1.4 - 08MAI2017</li>
         <h3><p>Correção Específica</p></h3>
             <ul>
                 <li> Alterado o formulário Esporte e/ou Recreio, para adequar-se a NORMAM-03.</li>
+                <li> Corrigido problema no campo "DUV" no formulário Passe de Saída, que passa a aceitar somente números, antes aceitava caracter especial.</li>
             </ul>
     </ul>
     <ul>
@@ -118,18 +119,18 @@
                 <li> Adicionada a função de verificar o tempo de 48h automaticamente no formulário, durante a inclusão de Navios Fundeados.</li>
                 <li> Adicionada a função de verificar se existe "Passe de Saída" para a DUV cadastrada, caso sim, o sistema envia uma mensagen informando a duplicidade.</li>
                 <li> Adicionada a função de automatizar a numeração do "Passe de Saída" no formulário, durante a inclusão do Passe de Saída.</li>
-                <li> Iniciado procedimentos de adequações junto as NORMAM-08 e 03</li>
+                <li> Iniciado procedimentos de adequações junto as NORMAM-08 e 03.</li>
             </ul>
         <h3><p>Correção Específica</p></h3>
             <ul>
             	<li> Corrigido problema de padronização de tamanho dos campos em todos os formulários.</li>
-                <li> Corrigido problemas de ortografia no menu.</li>
+                <li> Corrigido correções de ortografia no Menu.</li>
                 <li> Corrigido problema no campo "DUV" que passa a aceitar caracter especial.</li>
                 <li> Desabilitado o "Bruteforce".</li>
             </ul>
         <h3><p>Melhoria de Performance</p></h3>
             <ul>
-                <li> Adicionado o "Nome de Usuário" em todos os formulários. Antes era o NIP.</li>
+                <li> Adicionado o "Nome de Usuário" em todos os formulários, antes era o NIP.</li>
                 <li> Alterado o método de exportação para PDF e XLS, para todos os formuários.</li>
                 <li> Adicionado cores no campo "Anuência" do formulário de Navios na Pedra.</li>
                 <li> Alterado o "Intervalo de Refresh" para 60seg no formulário de Navios na Pedra.</li>
@@ -137,6 +138,7 @@
     </ul>
     <ul>
     <li>Versão 1.0 - 19DEZ2016</li>
+        <h3><p>Instalação</p></h3>
 	    	<ul>
 	        	<li> Lançamento oficial do sistema na CPRJ.</li>
 	    	</ul>
