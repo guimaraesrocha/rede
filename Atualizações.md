@@ -1,6 +1,24 @@
 <!DOCTYPE html>
    <h1>Atualizações</h1>   
     <ul>
+        <li>Versão 1.9 - 02SET2017</li>
+            <h3><p>Novas Implementações</p></h3>
+                <ul>
+                    <li> Adicionado os campos "Porto de Procedência" e "Porto de Destino" na base de dados de Navios Fundeados.</li>
+                    <li> Adicionado o campo "Total de Solicitações" na base de dados de Navios Fundeados, para verificar a frequencia de solicitações de fundeio da Embarcação.</li>
+                    <li> Adicionado nova base de dados que controla as perícias feitas pelo GVI no SISGEVI. Esta base de dados faz o controle conforme as datas das perícias, cadastradas no sistema, através de alertas e durante o cadastro de anuencias e fundeios.</li>
+                </ul>
+            <h3><p>Correção Específica</p></h3>
+                <ul>
+                    <li> Corrigido o ERRO na função de verificar o tempo de 48h automaticamente no formulário, durante a inclusão de Navios Fundeados.</li>
+                </ul>
+            <h3><p>Melhoria de Performance</p></h3>
+                <ul>
+                    <li> Durante o cadastro de fundeios de Embarcações, o sistema verifica se há registros na base de dados de PEDRA e SISGEVI.</li>
+                    <li> Durante o cadastro de Embarcações Esporte/Recreio, o sistema verifica se há registros na base de dados de PEDRA e SISGEVI.</li>
+                </ul>
+    </ul>
+    <ul>
         <li>Versão 1.8 - 17JUL2017</li>
             <h3><p>Bug</p></h3>
                 <ul>
@@ -16,6 +34,10 @@
                     <li> Devido a lentidão no sistema, a opção de gerar gráficos dinamicamente, foi retirada em todos os formulários.</li>
                     <li> Retirada a função de verificar o tempo de 48h automaticamente no formulário, durante a inclusão de Navios Fundeados.</li>
                 </ul>
+            <h3><p>Instalação</p></h3>
+    	    	<ul>
+    	        	<li> Lançamento oficial do sistema para OMSUBO, DPC e PRIDIS.</li>
+    	    	</ul>
     </ul>
     <ul>
         <li>Versão 1.7 - 10JUL2017</li>
