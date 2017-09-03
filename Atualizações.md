@@ -5,8 +5,8 @@
             <h3><p>Novas Implementações</p></h3>
                 <ul>
                     <li> Adicionado os campos "Porto de Procedência" e "Porto de Destino" na base de dados de Navios Fundeados.</li>
-                    <li> Adicionado o campo "Total de Solicitações" na base de dados de Navios Fundeados, para verificar a frequencia de solicitações de fundeio da Embarcação.</li>
-                    <li> Adicionado nova base de dados que controla as perícias feitas pelo GVI no SISGEVI. Esta base de dados faz o controle conforme as datas das perícias, cadastradas no sistema, através de alertas e durante o cadastro de anuencias e fundeios.</li>
+                    <li> Adicionado o campo "Total de Solicitações" na base de dados de Navios Fundeados, para verificar a frequência das solicitações de fundeio da Embarcação.</li>
+                    <li> Adicionado nova base de dados que controla as perícias feitas pelo GVI no SISGEVI. Esta base de dados faz o controle conforme as datas das perícias cadastradas no sistema. O controle ocorre através de alertas visual e durante o cadastro de anuências e fundeios.</li>
                 </ul>
             <h3><p>Correção Específica</p></h3>
                 <ul>
@@ -16,6 +16,7 @@
                 <ul>
                     <li> Durante o cadastro de fundeios de Embarcações, o sistema verifica se há registros na base de dados de PEDRA e SISGEVI.</li>
                     <li> Durante o cadastro de Embarcações Esporte/Recreio, o sistema verifica se há registros na base de dados de PEDRA e SISGEVI.</li>
+                    <li> Mudança na visualizacão das bordas de todos os campos do sistema, destacando-se a base de dados de Embarcações Esporte/Recreio.</li>
                 </ul>
     </ul>
     <ul>
@@ -36,14 +37,14 @@
                 </ul>
             <h3><p>Instalação</p></h3>
     	    	<ul>
-    	        	<li> Lançamento oficial do sistema para OMSUBO, DPC e PRIDIS.</li>
+    	        	<li> Lançamento oficial do sistema para as OMSUBO da CPRJ, DPC e PRIDIS.</li>
     	    	</ul>
     </ul>
     <ul>
         <li>Versão 1.7 - 10JUL2017</li>
              <h3><p>Melhoria de Performance</p></h3>
                 <ul>
-                    <li> Finalizado as correções específicas para se adequar a DCTIMBOTEC-31-002-2017 (Requisitos de SID para Homologacao de Sistemas Digitais).</li>
+                    <li> Finalizado as correções específicas para adequar o sistema conforme a DCTIMBOTEC-31-002-2017 (Requisitos de SID para Homologacão de Sistemas Digitais).</li>
                 </ul>
     </ul>
     <ul>
@@ -56,8 +57,8 @@
     	            </ul>
         	<h3><p>Correção Específica</p></h3>
                 <ul>
-                    <li> Corrigido erro de inclusao do nome da OM no Menu.</li>
-                    <li> Corrigido erro de inclusao do nome da OM no formulário OM.</li>
+                    <li> Corrigido erro de inclusão do nome da OM no Menu.</li>
+                    <li> Corrigido erro de inclusão do nome da OM no formulário OM.</li>
                 </ul>
             <h3><p>Melhoria de Performance</p></h3>
                 <ul>
@@ -68,7 +69,7 @@
         <li>Versão 1.5 - 10JUN2017</li>
         	<h3><p>Correção Específica</p></h3>
                 <ul>
-                    <li> Iniciado correções específicas para se adequar a DCTIMBOTEC-31-002-2017 (Requisitos de SID para Homologacao de Sistemas Digitais).</li>
+                    <li> Iniciado correções específicas para adequar o sistema a DCTIMBOTEC-31-002-2017 (Requisitos de SID para Homologacão de Sistemas Digitais).</li>
                 </ul>
             <h3><p>Melhoria de Performance</p></h3>
                 <ul>
