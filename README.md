@@ -1,6 +1,6 @@
 <!DOCTYPE html>
    <h1>SISPEDRA</h1>
-   <p>É um Sistema WEB criado para permitir um correto gerenciamento de cinco (5) Bases de Dados que são:</p>  
+   <p>É um sistema WEB que tem como fim, permitir o controle do tráfego de embarcações em AJB. O controle é feito usando 5 bases de dados que são: </p>  
     <ul>
     <li> Controle de Embarcações na Pedra;</li>
     <li> Controle de Navios Fundeados;</li>
