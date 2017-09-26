@@ -1,5 +1,14 @@
 <!DOCTYPE html>
-   <h1>Atualizações</h1>   
+   <h1>Atualizações</h1>
+   <ul>
+        <li>Versão 1.9.1 - 26SET2017</li>
+            <h3><p>Melhoria de Performance</p></h3>
+                <ul>
+                    <li> Adicionado nova interface no Controle de Perícias no SISGEVI.</li>
+                    <li> O controle da Data de Prorrogação passa a ser diretamente no campo das datas de Vencimento das Perícias ou para cada item vencido, conforme o FORM B, quando cadastrado no sistema.</li>
+                    <li> Adicionado contagem regressiva nos campos onde constam as datas das perícias.</li>
+                </ul>
+    </ul>
     <ul>
         <li>Versão 1.9 - 02SET2017</li>
             <h3><p>Novas Implementações</p></h3>
