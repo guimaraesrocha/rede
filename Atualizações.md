@@ -2,6 +2,10 @@
    <h1>Atualizações</h1>
    <ul>
         <li>Versão 1.9.1 - 26SET2017</li>
+            <h3><p>Novas Implementações</p></h3>
+                <ul>
+                    <li> Adicionado a função de poder fazer o backup da base de dados. O backup pode ser configurado para ser feito em dois caminhos diferentes, onde em caso de falha do primeiro, haverá a segunda opção.</li>
+                </ul>
             <h3><p>Melhoria de Performance</p></h3>
                 <ul>
                     <li> Adicionado nova interface no Controle de Perícias no SISGEVI.</li>
